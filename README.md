@@ -1,4 +1,4 @@
-# Neural Network Watermarking Against Trigger-Set Leakage
+# Neural Network Watermarking Against Trigger-Set Leakage and Extraction
 
 This repository contains an experimental implementation of neural network watermarking with trigger-set protection. It supports watermark training, model attacks, watermark evaluation, trigger-set encryption, and trigger-set decryption.
 
